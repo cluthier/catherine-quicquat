@@ -10,4 +10,4 @@ Le procès de Catherine Quicquat a été documenté dans *"Folâtrer avec les d�
 ### Logiciel
 Développé sur Twine.
 
-Lien itch.io: https://cluthier.itch.io/catherine
+Lien itch.io: https://cluthier.itch.io/catherine-quicquat
