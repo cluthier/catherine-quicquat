@@ -8,6 +8,6 @@ Adapatation libre du procès pour sorcellerie de Catherine Quicquat à Vevey, Su
 Le procès de Catherine Quicquat a été documenté dans *"Folâtrer avec les démons" Sabbat et chasse aux sorciers à Vevey (1448)* par Martine Ostorero (2008).
 
 ### Logiciel
-Déceloppé sur Twine.
+Développé sur Twine.
 
 Lien itch.io: https://cluthier.itch.io/catherine
